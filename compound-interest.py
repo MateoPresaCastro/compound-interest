@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import pyinputplus as pyip
 
 print("\n*** Yearly compound interest calculator ***\n")
