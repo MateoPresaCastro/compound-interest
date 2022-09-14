@@ -1,12 +1,12 @@
 # Compound interest
 
-Yearly compoud interest calculator.
+Yearly compound interest calculator.
 
 
 
 
 ## Run
-Install pip in your system then:
+Install input package:
 
 ```bash
   pip install pyinputplus
