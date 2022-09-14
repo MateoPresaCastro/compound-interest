@@ -5,7 +5,7 @@ Yearly compound interest calculator.
 
 
 
-## Run
+## How to run
 Install input package:
 
 ```bash
