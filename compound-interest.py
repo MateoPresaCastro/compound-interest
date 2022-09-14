@@ -25,6 +25,6 @@ recurringPayment = monthlyContribution*(((1+(interestRate/100))**(n*lengthOfTime
 finalAmount = yearlyCompound + recurringPayment
 
 
-print(f"Final amount: ${round(finalAmount,2)}");
+print(f"Final amount: ${round(finalAmount,2)}")
 
 
