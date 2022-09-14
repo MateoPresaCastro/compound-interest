@@ -1,6 +1,6 @@
 import pyinputplus as pyip
 
-print("\n*** Index fund yearly compound interest calculator ***\n")
+print("\n*** Yearly compound interest calculator ***\n")
 
 print("Initial investment:",end=" ")
 initialInvestment = pyip.inputNum()
