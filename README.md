@@ -9,7 +9,7 @@ Yearly compound interest calculator.
 Install input package:
 
 ```bash
-  pip install pyinputplus
+  pip3 install pyinputplus
 ```
 and run:
 
